@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "672454909745",
+    "firebase_url": "https://farmersapp-b799f-default-rtdb.firebaseio.com",
+    "project_id": "farmersapp-b799f",
+    "storage_bucket": "farmersapp-b799f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672454909745:android:0d7c818ac26d8047de1a10",
+        "android_client_info": {
+          "package_name": "com.example.farmapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Sgxw3yjBA20r16nzZq0hWCkE-oAD8WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672454909745:android:bf990d41b367c72ade1a10",
+        "android_client_info": {
+          "package_name": "com.example.farmerapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Sgxw3yjBA20r16nzZq0hWCkE-oAD8WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
